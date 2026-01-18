@@ -8,7 +8,7 @@ A secure, modern, and intuitive **online voting system** for shareholders, built
 
 ## Features
 
-### 🎯 Purpose-Built for Shareholder Voting
+###  Purpose-Built for Shareholder Voting
 
 - Remote voting for shareholder meetings.
 - Intuitive and accessible interface across devices.
@@ -16,7 +16,7 @@ A secure, modern, and intuitive **online voting system** for shareholders, built
 
 ---
 
-### 🧠 State Management with BLoC
+###  State Management with BLoC
 
 - Uses the **BLoC (Business Logic Component)** pattern for state management.
 - Separates business logic from UI for better **scalability** and **testability**.
@@ -25,7 +25,7 @@ A secure, modern, and intuitive **online voting system** for shareholders, built
 
 ---
 
-### 🔐 Multi-Phase Authentication
+###  Multi-Phase Authentication
 
 - Ensures each vote is cast by the **correct verified shareholder** using a layered approach:
   - **Username & Password** login.
@@ -37,7 +37,7 @@ A secure, modern, and intuitive **online voting system** for shareholders, built
 
 ---
 
-### 🎥 Video Demo
+###  Video Demo
 
 > Watch the system in action through a full demo walkthrough:
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/54fe6396-111f-4f59-b90f-f52d6df4c95e
 
 ---
 
-### 💡 UI & UX Highlights
+###  UI & UX Highlights
 
 - **Fluid Animations** across all screens and transitions.
 - **Clean Material Design** for ease of navigation.
@@ -53,12 +53,12 @@ https://github.com/user-attachments/assets/54fe6396-111f-4f59-b90f-f52d6df4c95e
 - User-centric flow ensures non-technical users can complete the process confidently.
 
 ---
-### 🌐 Multi-language Support
+###  Multi-language Support
 
 - Supports **three languages** with dynamic localization.
 - Automatically adapts content based on user language settings.
 
-### 🌙 Theme Support
+###  Theme Support
 
 - Toggle between **Light** and **Dark** themes.
 - Consistent and responsive styling for all components.
